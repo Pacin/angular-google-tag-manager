@@ -1,0 +1,19 @@
+{
+  "name": "angular-google-tag-manager",
+  "version": "1.1.7",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mzuccaroli/angular-google-tag-manager"
+  },
+  "description": "A service library for integrate google tag manager in your angular project",
+  "author": "marcozuccaroli@gmail.com",
+  "contributors": [
+    "Marco Zuccaroli <marcozuccaroli@gmail.com>",
+    "Nils Thomann <nils.thomann@quickline.ch>"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^9.1.12",
+    "@angular/core": "^9.1.12"
+  }
+}
